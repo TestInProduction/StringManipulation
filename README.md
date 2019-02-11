@@ -1,4 +1,4 @@
-#String Manipulator
+# String Manipulator
 
 StringManipulator takes strings and converts them depending on the selected method.
 
